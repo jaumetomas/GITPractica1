@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Benvingut al CIFP Francesc de Borja Moll 
 
 You can use the [editor on GitHub](https://github.com/jaumetomas/GITPractica1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Desde aquesta pàgina podreu accedir a les diferentes matèries del curs 2020/2021 de primer de DAM.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
